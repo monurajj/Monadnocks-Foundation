@@ -1,13 +1,7 @@
 import {
-  ChevronDown,
-  ArrowRight,
   Mail,
   MapPin,
   Users,
-  Facebook,
-  Instagram,
-  Twitter,
-  Youtube,
 } from "lucide-react";
 
 function ContactUs() {

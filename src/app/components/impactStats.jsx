@@ -1,4 +1,4 @@
-import { FaTree, FaUsers, FaChalkboardTeacher, FaFemale } from "react-icons/fa"; // Importing icons
+import { FaTree, FaUsers, FaChalkboardTeacher, FaFemale } from "react-icons/fa";
 import { useEffect, useState } from "react";
 
 function ImpactStats() {
@@ -14,7 +14,6 @@ function ImpactStats() {
   });
 
   useEffect(() => {
-    // Animation effect to show numbers count up (simulating dynamic update)
     const interval = setInterval(() => {
       setStats((prev) => ({
         ...prev,

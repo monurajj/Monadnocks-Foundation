@@ -12,14 +12,6 @@ import ContactUs from "./contactUs";
 import DevelopmentNotice from "@/toggles/pageunderDevelopment";
 import {
   ChevronDown,
-  ArrowRight,
-  Mail,
-  MapPin,
-  Users,
-  Facebook,
-  Instagram,
-  Twitter,
-  Youtube,
 } from "lucide-react";
 
 const HomePage = () => {
