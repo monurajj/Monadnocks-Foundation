@@ -9,7 +9,7 @@ import SupportUs from "./supportUs";
 import OurKeyInitative from "./ourKeyInitiative";
 import ImpactStats from "./impactStats";
 import ContactUs from "./contactUs";
-import DevelopmentNotice from "@/toggles/pageunderDevelopment";
+import DevelopmentNotice from "@/toasts/pageunderDevelopment";
 import {
   ChevronDown,
 } from "lucide-react";
@@ -29,13 +29,12 @@ const HomePage = () => {
       className="text-black min-h-screen bg-gradient-to-b from-white to-gray-50"
     >
         <Navbar/>
-
         <DevelopmentNotice/>
       {/* Hero Section */}
       <section className="relative h-screen flex items-center justify-center text-center px-4 overflow-hidden">
         <div className="absolute inset-0 z-0">
           <Image
-            src=""
+            src={null}
             alt="Hero background"
             className="w-full h-full object-cover opacity-20"
           />

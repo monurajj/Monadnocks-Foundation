@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
-import { IoArrowBack } from "react-icons/io5";
-import { useRouter } from "next/navigation"; // Changed from next/router to next/navigation
+import { IoArrowBack } from "react-icons/io5"; // Correct icon import
+import { useRouter } from "next/navigation"; // Correct for Next.js 13+ App Router (otherwise use next/router for pages directory)
 import DonationSection from "./donationSection";
 import PartnerSection from "./partnerSection";
 import SpreadAwareness from "./spreadAwarenessSection";

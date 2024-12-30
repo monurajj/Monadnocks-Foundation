@@ -1,13 +1,18 @@
 import {
+  Facebook,
+  Instagram,
+  Twitter,
+  Youtube,
   Mail,
-  MapPin,
   Users,
-} from "lucide-react";
+} from "react-icons/fa"; // Keep these as they are
+
+import { IoMapPin } from "react-icons/io"; // Correct import for MapPin
 
 function ContactUs() {
   return (
     <section id="contactUs" className="py-20 px-4 bg-gray-50">
-      <div className="max-w-4xl mx-auto text-center">
+      {/* <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-3xl font-bold mb-12">Get in Touch</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
           <div className="bg-white p-6 rounded-lg shadow-md">
@@ -16,7 +21,7 @@ function ContactUs() {
             <p className="text-gray-600">contactmonadnocks@gmail.com</p>
           </div>
           <div className="bg-white p-6 rounded-lg shadow-md">
-            <MapPin className="w-6 h-6 mx-auto mb-4 text-blue-600" />
+            <IoMapPin className="w-6 h-6 mx-auto mb-4 text-blue-600" />
             <p className="font-semibold">Website</p>
             <p className="text-gray-600">www.Monadnocks.in</p>
           </div>
@@ -31,8 +36,9 @@ function ContactUs() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
     </section>
   );
 }
+
 export default ContactUs;
