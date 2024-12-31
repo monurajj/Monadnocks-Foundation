@@ -17,8 +17,8 @@ const HomePage = () => {
   const [activeImageIndex, setActiveImageIndex] = useState(0);
 
   const ImageArray = [
+      "/educationAndYouth.jpeg",
     "/environmental.jpeg",
-    "/educationAndYouth.jpeg",
     "/sports.jpg",
   ];
 
@@ -122,9 +122,9 @@ const HomePage = () => {
               isVisible ? "opacity-100" : "opacity-0"
             }`}
           >
-            <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-full text-lg transition-colors">
+            {/* <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-full text-lg transition-colors">
               Join Our Mission
-            </button>
+            </button> */}
           </div>
         </div>
 
