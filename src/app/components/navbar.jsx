@@ -120,40 +120,45 @@ const Navbar = () => {
 
         {/* Mobile Navigation */}
         <div
-          className={`md:hidden transition-all duration-300 ease-in-out overflow-hidden ${
+          className={`md:hidden fixed top-[64px] left-0 right-0 z-50 transition-all duration-300 ease-in-out ${
             isOpen
-              ? "max-h-screen opacity-100 visible"
-              : "max-h-0 opacity-0 invisible"
+              ? "opacity-100 visible translate-y-0"
+              : "opacity-0 invisible -translate-y-2"
           }`}
         >
-          <div className="pt-4 pb-3 space-y-1">
-            {navLinks.map((link, index) => (
-              <div key={index}>
-                <a
-                  href={link.href}
-                  className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-blue-600 hover:bg-blue-50"
+          <div className="mx-4 mt-2 rounded-xl border border-gray-200 bg-green-900/60 shadow-lg backdrop-blur-lg">
+            <div className="pt-4 pb-3 space-y-1">
+              {navLinks.map((link, index) => (
+                <div key={index} className="group">
+                  <a
+                    href={link.href}
+                    className="block px-4 py-2.5 text-base font-medium text-black hover:text-blue-600 hover:bg-blue-50/70 rounded-lg mx-2 transition-all duration-200"
+                  >
+                    {link.title}
+                  </a>
+                  {/* {link.children && (
+                    <div className="pl-4 space-y-0.5 bg-gray-50/50 py-2 mx-2 rounded-lg">
+                      {link.children.map((child, childIndex) => (
+                        <a
+                          key={childIndex}
+                          href={child.href}
+                          className="block px-4 py-2 text-sm font-medium text-gray-600 hover:text-blue-600 hover:bg-blue-50/70 rounded-lg transition-all duration-200"
+                        >
+                          {child.title}
+                        </a>
+                      ))}
+                    </div>
+                  )} */}
+                </div>
+              ))}
+              <div className="px-4 py-3">
+                <Link
+                  href={"helpus"}
+                  className="w-full bg-gradient-to-r from-blue-600 to-blue-700 text-white px-6 py-2.5 rounded-lg text-sm font-medium hover:from-blue-700 hover:to-blue-800 transition-all duration-200 shadow-md hover:shadow-lg"
                 >
-                  {link.title}
-                </a>
-                {link.children && (
-                  <div className="pl-6 space-y-1">
-                    {link.children.map((child, childIndex) => (
-                      <a
-                        key={childIndex}
-                        href={child.href}
-                        className="block px-3 py-2 rounded-md text-sm font-medium text-gray-600 hover:text-blue-600 hover:bg-blue-50"
-                      >
-                        {child.title}
-                      </a>
-                    ))}
-                  </div>
-                )}
+                  Support Us
+                </Link>
               </div>
-            ))}
-            <div className="px-3 py-2">
-              <button className="w-full bg-blue-600 text-white px-4 py-2 rounded-full text-sm hover:bg-blue-700 transition-colors">
-                Support Us
-              </button>
             </div>
           </div>
         </div>
