@@ -35,7 +35,6 @@ function OurKeyInitiative() {
     },
   ];
 
-//   console.log("bhais")
   return (
     <section id="initiatives" className="py-20 px-4 bg-gray-50">
       <div className="max-w-6xl mx-auto">
