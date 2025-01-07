@@ -1,6 +1,13 @@
 "use client";
 import { useState } from "react";
 import { motion } from "framer-motion";
+import {
+  FaFacebookF,
+  FaTwitter,
+  FaInstagram,
+  FaLinkedinIn,
+  FaGithub,
+} from "react-icons/fa"; // Correct import for Font Awesome icons
 
 function SpreadAwareness() {
   // State to control modal visibility
@@ -54,12 +61,11 @@ function SpreadAwareness() {
             </h3>
 
             <p className="text-lg text-gray-700 mb-6">
-              At Monadnocks, we believe that the power to change the world lies
-              within each one of us. By sharing our mission with your network,
-              you are becoming an essential part of this movement. Together, we
-              can raise awareness for the causes that matter most, from
-              community building to environmental sustainability and education
-              for all.
+              Spreading awareness is one of the most powerful tools we have in
+              bringing about change. Every post, every share, and every
+              conversation you start can create ripples of positive impact.
+              Together, we can help build a future filled with compassion,
+              opportunity, and equality.
             </p>
 
             <ul className="space-y-4 mb-6">
@@ -87,13 +93,45 @@ function SpreadAwareness() {
               </li>
             </ul>
 
-            <p className="text-lg text-gray-700 mb-6">
-              Spreading awareness is one of the most powerful tools we have in
-              bringing about change. Every post, every share, and every
-              conversation you start can create ripples of positive impact.
-              Together, we can help build a future filled with compassion,
-              opportunity, and equality.
-            </p>
+            {/* Social Media Sharing Buttons */}
+            <div className="flex justify-center gap-6 mb-6">
+              <a
+                href="https://www.facebook.com/sharer/sharer.php?u=https://www.monadnocks.org"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-600 hover:text-blue-700"
+                aria-label="Share on Facebook"
+              >
+                <FaFacebookF size={32} />
+              </a>
+              <a
+                href="https://twitter.com/intent/tweet?url=https://www.monadnocks.org&text=Join%20Monadnocks%20in%20making%20a%20difference!"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-400 hover:text-blue-500"
+                aria-label="Share on Twitter"
+              >
+                <FaTwitter size={32} />
+              </a>
+              <a
+                href="https://www.instagram.com/?url=https://www.monadnocks.org"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-pink-600 hover:text-pink-700"
+                aria-label="Share on Instagram"
+              >
+                <FaInstagram size={32} />
+              </a>
+              <a
+                href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.monadnocks.org&title=Join%20Monadnocks%20in%20making%20a%20difference!"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-700 hover:text-blue-800"
+                aria-label="Share on LinkedIn"
+              >
+                <FaLinkedinIn size={32} />
+              </a>
+            </div>
 
             <div className="text-center">
               <button

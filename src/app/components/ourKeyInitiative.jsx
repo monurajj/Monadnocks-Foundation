@@ -7,12 +7,13 @@ function OurKeyInitiative() {
       description: "100 Trees Plantation Challenge & Green Initiatives",
       impact: "1000+ trees planted",
       image: "/environmental.jpeg", // Move images to public directory
-    },
-    {
-      title: "Education & Youth",
-      description: "Skill Development & Career Guidance",
-      impact: "500+ students mentored",
-      image: "/educationAndYouth.jpeg",
+      },
+      {
+        title: "Education & Youth",
+        description: "Skill Development & Career Guidance",
+        impact: "500+ students mentored",
+        image: "/educationAndYouth.jpeg",
+        path: "/education&youth",
     },
     {
       title: "Sports Program",
@@ -61,6 +62,19 @@ function OurKeyInitiative() {
                   {initiative.title}
                 </h3>
                 <p className="text-gray-600 mb-4">{initiative.description}</p>
+
+                <a
+                  href={initiative.path}
+                  className={`bg-blue-600 text-white py-2 px-4 rounded-lg ${
+                    initiative.title === "Education & Youth"
+                      ? "hover:bg-blue-700"
+                      : "cursor-not-allowed bg-gray-300"
+                  } transition duration-300`}
+                  disabled={initiative.title !== "Education & Youth"}
+                >
+                  Explore Now
+                </a>
+
                 {/* <div className="bg-blue-50 text-blue-600 py-2 px-4 rounded-full inline-block text-sm">
                   {initiative.impact}
                 </div> */}

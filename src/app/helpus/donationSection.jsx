@@ -37,14 +37,14 @@ function DonationSection() {
       }
 
       const result = await emailjs.send(
-        "service_krgqzjr",
-        "template_hvb36wu",
+        "service_krgqzjr", // Replace with your EmailJS Service ID
+        "template_hvb36wu", // Replace with your EmailJS Template ID
         {
           name: formData.name,
           amount: formData.amount,
           canUseDetails: formData.canUseDetails ? "Yes" : "No",
         },
-        "PUYULeXlwF1-NbWZN"
+        "PUYULeXlwF1-NbWZN" // Replace with your EmailJS Public Key
       );
 
       console.log(result.text);

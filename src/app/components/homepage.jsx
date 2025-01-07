@@ -70,9 +70,14 @@ const HomePage = () => {
             Join our latest initiative supporting young minds. New programs
             starting soon!
           </p>
-          <button className="w-full bg-blue-600 text-white py-2 rounded-full hover:bg-blue-700 transition-colors">
-            Join Education & Youth
-          </button>
+          <div className="flex justify-center">
+            <a
+              href={"/education&youth"}
+              className="p-4 bg-blue-600 text-white py-2 rounded-full hover:bg-blue-700 transition-colors"
+            >
+              Join Education & Youth
+            </a>
+          </div>
         </div>
       </div>
     </div>
@@ -122,9 +127,11 @@ const HomePage = () => {
               isVisible ? "opacity-100" : "opacity-0"
             }`}
           >
+            
             {/* <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-full text-lg transition-colors">
               Join Our Mission
             </button> */}
+
           </div>
         </div>
 

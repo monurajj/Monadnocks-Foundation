@@ -24,9 +24,9 @@ function VisionSection() {
               and communities to build a better tomorrow through innovative
               solutions and active participation.
             </p>
-            <button className="flex items-center gap-2 text-blue-600 hover:gap-4 hover:text-blue-800 transition-all ease-in-out duration-300">
+            {/* <button className="flex items-center gap-2 text-blue-600 hover:gap-4 hover:text-blue-800 transition-all ease-in-out duration-300">
               Learn More About Our Mission <ArrowRight className="w-5 h-5" />
-            </button>
+            </button> */}
           </div>
 
           {/* Image Section */}

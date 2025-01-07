@@ -54,11 +54,10 @@ function PartnerSection() {
             </h3>
 
             <p className="text-lg text-gray-700 mb-6">
-              At Monadnocks, we believe in the power of collaboration and shared
-              vision. By partnering with us, you're not just investing in a
-              cause; you're becoming part of something bigger — a movement that
-              changes lives, uplifts communities, and paves the way for a better
-              future.
+              Our foundation is more than just a charity – we’re a movement
+              towards a future where everyone has access to opportunities,
+              education, and hope. Partnering with us means you’re supporting
+              this vision and helping to bring positive change to the world.
             </p>
 
             <ul className="space-y-4 mb-6">
@@ -88,12 +87,21 @@ function PartnerSection() {
               </li>
             </ul>
 
-            <p className="text-lg text-gray-700 mb-6">
-              Our foundation is more than just a charity – we’re a movement
-              towards a future where everyone has access to opportunities,
-              education, and hope. Partnering with us means you’re supporting
-              this vision and helping to bring positive change to the world.
-            </p>
+            {/* Write us an email */}
+            <div className="text-center mb-6">
+              <p className="text-lg text-gray-700">
+                Have questions or want to discuss a partnership?{" "}
+              </p>
+              <p className="text-lg text-gray-700">
+                Directly reach us at:{" "}
+                <a
+                  href="mailto:contactmonadnocks@gmail.com"
+                  className="text-blue-600"
+                >
+                  contactmonadnocks@gmail.com
+                </a>
+              </p>
+            </div>
 
             <div className="text-center">
               <button
