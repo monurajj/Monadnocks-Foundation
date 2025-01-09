@@ -153,7 +153,7 @@ const HomePage = () => {
       <VisionSection />
       <OurKeyInitative />
       <SupportUs />
-      <ContactUs />
+      {/* <ContactUs /> */}
     </div>
   );
 };

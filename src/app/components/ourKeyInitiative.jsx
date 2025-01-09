@@ -3,17 +3,17 @@ import Image from "next/image";
 function OurKeyInitiative() {
   const initiatives = [
     {
+      title: "Education & Youth",
+      description: "Skill Development & Career Guidance",
+      impact: "500+ students mentored",
+      image: "/educationAndYouth.jpeg",
+      path: "/education&youth",
+    },
+    {
       title: "Environmental Conservation",
       description: "100 Trees Plantation Challenge & Green Initiatives",
       impact: "1000+ trees planted",
       image: "/environmental.jpeg", // Move images to public directory
-      },
-      {
-        title: "Education & Youth",
-        description: "Skill Development & Career Guidance",
-        impact: "500+ students mentored",
-        image: "/educationAndYouth.jpeg",
-        path: "/education&youth",
     },
     {
       title: "Sports Program",

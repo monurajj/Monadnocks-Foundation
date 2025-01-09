@@ -25,8 +25,8 @@ import JoinUs from "./joinsUs";
 const EducationYouth = () => {
       
   return (
-    <div className="text-black  mx-auto p-6 bg-gradient-to-br from-blue-50 via-purple-50 to-white">
-      <div className="bg-white rounded-xl shadow-2xl overflow-hidden transform hover:scale-[1.02] transition-all duration-300">
+    // <div className="text-black  mx-auto p-6 bg-gradient-to-br from-blue-50 via-purple-50 to-white">
+      <div className="bg-white text-black rounded-xl shadow-2xl overflow-hidden transform transition-all duration-300">
         {/* Hero Section */}
         <div className="text-center p-12 bg-gradient-to-r from-blue-700 via-blue-600 to-purple-600 text-white relative overflow-hidden">
           <div className="absolute inset-0 bg-[url('/pattern.png')] opacity-10"></div>
@@ -358,7 +358,7 @@ const EducationYouth = () => {
           </div>
         </div>
       </div>
-    </div>
+    // </div>
   );
 };
 

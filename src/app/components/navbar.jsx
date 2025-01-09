@@ -22,6 +22,7 @@ const Navbar = () => {
     { title: "About Us", href: "#aboutUs" },
     { title: "Initiatives", href: "#initiatives" },
     {
+      
       title: "Get Involved",
       href: "#getInvolved",
       children: [
@@ -31,7 +32,7 @@ const Navbar = () => {
       ],
     },
     // { title: "Impact", href: "#impact" },
-    { title: "Contact", href: "#contactUs" },
+    // { title: "Contact", href: "#contactUs" },
   ];
 
   return (
