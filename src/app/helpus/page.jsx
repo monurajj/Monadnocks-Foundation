@@ -39,12 +39,12 @@ const SupportPage = () => {
         </div>
       </main>
 
-      <footer className="bg-blue-900 text-white py-4 text-center">
+{/*       <footer className="bg-blue-900 text-white py-4 text-center">
         <p>
           Monadnocks Foundation &copy; {new Date().getFullYear()} | All Rights
           Reserved
         </p>
-      </footer>
+      </footer> */}
     </div>
   );
 };
