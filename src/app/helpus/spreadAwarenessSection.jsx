@@ -95,7 +95,7 @@ function SpreadAwareness() {
 
             {/* Social Media Sharing Buttons */}
             <div className="flex justify-center gap-6 mb-6">
-              <a
+              {/* <a
                 href="https://www.facebook.com/sharer/sharer.php?u=https://www.monadnocks.org"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -103,9 +103,9 @@ function SpreadAwareness() {
                 aria-label="Share on Facebook"
               >
                 <FaFacebookF size={32} />
-              </a>
+              </a> */}
               <a
-                href="https://twitter.com/intent/tweet?url=https://www.monadnocks.org&text=Join%20Monadnocks%20in%20making%20a%20difference!"
+                href="https://x.com/monadnocks_"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-500"
@@ -114,7 +114,7 @@ function SpreadAwareness() {
                 <FaTwitter size={32} />
               </a>
               <a
-                href="https://www.instagram.com/?url=https://www.monadnocks.org"
+                href="https://www.instagram.com/monadnocks_official/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-pink-600 hover:text-pink-700"
@@ -123,7 +123,7 @@ function SpreadAwareness() {
                 <FaInstagram size={32} />
               </a>
               <a
-                href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.monadnocks.org&title=Join%20Monadnocks%20in%20making%20a%20difference!"
+                href="https://www.linkedin.com/in/monadnocks-foundation-861b53343/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-blue-700 hover:text-blue-800"
