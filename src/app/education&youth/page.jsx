@@ -266,7 +266,7 @@ const EducationYouth = () => {
                     className="flex items-center justify-between p-6 bg-gradient-to-r from-purple-600 to-purple-700 text-white rounded-xl hover:scale-[1.02] transition-all group"
                     onClick={() =>
                       window.open(
-                        "https://t.me/todayupdatebymonadnocksp",
+                        "https://t.me/todayupdatebymonadnocks",
                         "_blank"
                       )
                     }
