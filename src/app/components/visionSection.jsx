@@ -37,7 +37,7 @@ function VisionSection() {
               className="w-full h-full object-cover transform group-hover:scale-105 transition-transform duration-500"
             />
             {/* Dark overlay for text contrast */}
-            <div className="absolute inset-0 bg-black opacity-30 transition-opacity duration-300 group-hover:opacity-50"></div>
+            <div className="absolute inset-0 bg-black opacity-10 transition-opacity duration-300 group-hover:opacity-20"></div>
           </div>
         </div>
       </div>

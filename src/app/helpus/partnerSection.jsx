@@ -3,7 +3,6 @@ import { useState } from "react";
 import { motion } from "framer-motion";
 
 function PartnerSection() {
-  // State to control modal visibility
   const [showModal, setShowModal] = useState(false);
 
   return (
@@ -25,7 +24,6 @@ function PartnerSection() {
         </button>
       </div>
 
-      {/* Modal for partnership details */}
       {showModal && (
         <motion.div
           className="fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center z-50"
@@ -41,7 +39,6 @@ function PartnerSection() {
             exit={{ y: 50 }}
             transition={{ type: "spring", stiffness: 200 }}
           >
-            {/* Close Button */}
             <button
               onClick={() => setShowModal(false)}
               className="absolute top-2 right-2 text-gray-600 hover:text-gray-800 p-2"
@@ -87,7 +84,6 @@ function PartnerSection() {
               </li>
             </ul>
 
-            {/* Write us an email */}
             <div className="text-center mb-6">
               <p className="text-lg text-gray-700">
                 Have questions or want to discuss a partnership?{" "}
@@ -104,6 +100,14 @@ function PartnerSection() {
             </div>
 
             <div className="text-center">
+              <a
+                href="https://drive.google.com/file/d/1nv9bTJEjZP2PdvCgK-MT2nyLlimF95hq/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="bg-green-600 text-white py-2 px-6 rounded-full hover:bg-green-500 inline-block mb-4 mr-2"
+              >
+                Download Details PDF
+              </a>
               <button
                 onClick={() => setShowModal(false)}
                 className="bg-blue-600 text-white py-2 px-6 rounded-full hover:bg-blue-500"

@@ -66,7 +66,7 @@ function Footer() {
                 />
               </a>
               <a
-                href="https://www.instagram.com/monadnocks_official/" // Replace with actual Instagram link
+                href="https://www.instagram.com/_monadnocks_official_/" // Replace with actual Instagram link
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 hover:text-white transition-colors duration-300"

@@ -72,7 +72,10 @@ function OurKeyInitiative() {
                   } transition duration-300`}
                   disabled={initiative.title !== "Education & Youth"}
                 >
-                  Explore Now
+                 
+                  {initiative.title === "Education & Youth"
+                    ? "Explore Now"
+                    : "Under Construction"}
                 </a>
 
                 {/* <div className="bg-blue-50 text-blue-600 py-2 px-4 rounded-full inline-block text-sm">

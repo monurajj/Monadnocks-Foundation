@@ -114,7 +114,7 @@ function SpreadAwareness() {
                 <FaTwitter size={32} />
               </a>
               <a
-                href="https://www.instagram.com/monadnocks_official/"
+                href="https://www.instagram.com/_monadnocks_official_/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-pink-600 hover:text-pink-700"
