@@ -17,7 +17,7 @@ const HomePage = () => {
   const [activeImageIndex, setActiveImageIndex] = useState(0);
 
   const ImageArray = [
-      "/educationAndYouth.jpeg",
+    "/educationAndYouth.jpeg",
     "/environmental.jpeg",
     "/sports.jpg",
   ];
@@ -57,25 +57,30 @@ const HomePage = () => {
           <div className="relative h-40 rounded-lg overflow-hidden">
             <Image
               src="/educationAndYouth.jpeg"
-              alt="Education & Youth"
+              alt="NCM Championship"
               layout="fill"
               objectFit="cover"
               className="rounded-lg"
             />
           </div>
-          <h4 className="font-semibold text-blue-600">
-            Education & Youth Program
-          </h4>
+          <h4 className="font-semibold text-blue-600">NCM Championship</h4>
           <p className="text-sm text-gray-600">
-            Join our latest initiative supporting young minds. New programs
-            starting soon!
+            "This competition transformed my confidence and knowledge! A
+            must-join event for every student." – Previous Participant
+          </p>
+          <p className="text-sm text-gray-600">
+            Join the NCM Championship and compete with the best minds! Unlock
+            exciting prizes, gain recognition, and be part of something bigger.
+            And the best part? <span className="text-lg text-red-900 ">It's absolutely FREE!</span>
           </p>
           <div className="flex justify-center">
             <a
-              href={"/education&youth"}
+              href="https://docs.google.com/forms/d/1G2g-j5YocIoW05TVg351eNFQJJ_97QpxxMwyBdeskys/edit"
+              target="_blank"
+              rel="noopener noreferrer"
               className="p-4 bg-blue-600 text-white py-2 rounded-full hover:bg-blue-700 transition-colors"
             >
-              Join Education & Youth
+              Apply Now
             </a>
           </div>
         </div>
@@ -121,18 +126,6 @@ const HomePage = () => {
           >
             Inspiring Change, Building Tomorrow
           </p>
-
-          <div
-            className={`transition-opacity duration-1000 delay-500 ${
-              isVisible ? "opacity-100" : "opacity-0"
-            }`}
-          >
-            
-            {/* <button className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-full text-lg transition-colors">
-              Join Our Mission
-            </button> */}
-
-          </div>
         </div>
 
         <div className="absolute bottom-8 left-0 right-0 flex justify-center gap-2 z-10">
@@ -153,7 +146,6 @@ const HomePage = () => {
       <VisionSection />
       <OurKeyInitative />
       <SupportUs />
-      {/* <ContactUs /> */}
     </div>
   );
 };
