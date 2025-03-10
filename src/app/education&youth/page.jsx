@@ -55,8 +55,8 @@ const EducationYouth = () => {
         registrationLink:
           "https://docs.google.com/forms/d/1G2g-j5YocIoW05TVg351eNFQJJ_97QpxxMwyBdeskys", // Update this link with the actual registration URL
         examDate: "📅 Sunday, 09/03/2025",
-        resultDate: "📢 Monday, 11/03/2025",
-        prizeCeremony: "🎉 Wednesday, 12/03/2025",
+        resultDate: "📢 Sunday, 16/03/2025",
+        prizeCeremony: "🎉 Sunday, 16/03/2025",
         examCenter: "📍 Rajkiya Krit Madhya Vidyalaya Purhara",
         contact: "📩 contactmonadnocks@gmail.com",
         socialMedia: "📲 Instagram: **_monadnocks_official_**",
