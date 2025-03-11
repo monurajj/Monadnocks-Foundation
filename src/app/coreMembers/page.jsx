@@ -6,7 +6,6 @@ import LogoImage from "../../assets/logoImage01.jpeg";
 import {
   Phone,
   Mail,
-  LinkedinIcon,
   Globe,
   Heart,
   TreePine,
