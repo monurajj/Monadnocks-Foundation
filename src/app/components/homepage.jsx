@@ -63,7 +63,9 @@ const HomePage = () => {
               className="rounded-lg"
             />
           </div>
-          <h4 className="font-semibold text-blue-600">NCM Championship</h4>
+          <h4 className="font-semibold text-blue-600">
+            NCM Championship Results
+          </h4>
           <p className="text-sm text-gray-600">
             "This competition transformed my confidence and knowledge! A
             must-join event for every student." – Previous Participant
@@ -71,16 +73,17 @@ const HomePage = () => {
           <p className="text-sm text-gray-600">
             Join the NCM Championship and compete with the best minds! Unlock
             exciting prizes, gain recognition, and be part of something bigger.
-            And the best part? <span className="text-lg text-red-900 ">It's absolutely FREE!</span>
+            And the best part?{" "}
+            <span className="text-lg text-red-900 ">It's absolutely FREE!</span>
           </p>
           <div className="flex justify-center">
             <a
-              href="https://docs.google.com/forms/d/1G2g-j5YocIoW05TVg351eNFQJJ_97QpxxMwyBdeskys/edit"
+              href="/ncmresult"
               target="_blank"
               rel="noopener noreferrer"
               className="p-4 bg-blue-600 text-white py-2 rounded-full hover:bg-blue-700 transition-colors"
             >
-              Apply Now
+              View Results
             </a>
           </div>
         </div>
@@ -94,7 +97,7 @@ const HomePage = () => {
       className="text-black min-h-screen bg-gradient-to-b from-white to-gray-50"
     >
       <Navbar />
-      <DevelopmentNotice />
+      {/* <DevelopmentNotice /> */}
       <LatestUpdates />
 
       {/* Hero Section */}

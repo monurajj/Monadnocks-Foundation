@@ -1,0 +1,2619 @@
+{
+  "masters": [
+    {
+      "name": "SITHUN KUMAR",
+      "phone": "7257077902",
+      "village": "PURHARA",
+      "guardianName": "RAKESH SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 47
+    },
+    {
+      "name": "SOURBH KUMAR",
+      "phone": "7091268512",
+      "village": "PURHARA",
+      "guardianName": "SANJAY SINGH",
+      "className": "",
+      "collageName": "KAMELESH COACHING",
+      "marks": 45
+    },
+    {
+      "name": "MD. ARIF RAZA",
+      "phone": "8936032803",
+      "village": "PURHARA",
+      "guardianName": "",
+      "className": "",
+      "collageName": "",
+      "marks": 38
+    },
+    {
+      "name": "ROHIT KUMAR",
+      "phone": "8002447925",
+      "village": "PURHARA",
+      "guardianName": "SANJIT KUMAR",
+      "className": "",
+      "collageName": "KAMLESH COACHING",
+      "marks": 36
+    },
+    {
+      "name": "RAHMAN ALAM",
+      "phone": "9693081079",
+      "village": "PURHARA",
+      "guardianName": "",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "ANKU KUMAR",
+      "phone": "7224824062",
+      "village": "PURHARA",
+      "guardianName": "AMRENDRA KUMAR SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 19
+    },
+    {
+      "name": "KUNDAN KUMAR",
+      "phone": "9341633453",
+      "village": "BIRHARA",
+      "guardianName": "KARMU RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 16
+    }
+  ]
+,
+  "challengers": [
+    {
+      "name": "SHUBHAM KUMAR",
+      "phone": "9934859708",
+      "village": "PURHARA",
+      "guardianName": "RAKESH KUMAR",
+      "className": "",
+      "collageName": "kcc",
+      "marks": 62
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "phone": "9905122947",
+      "village": "PURHARA",
+      "guardianName": "RANDHEER",
+      "className": "",
+      "collageName": "kcc",
+      "marks": 61
+    },
+    {
+      "name": "AYUSH RAUSHAN",
+      "phone": "8228874798",
+      "village": "BIRHARA",
+      "guardianName": "SURENDRA RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 56
+    },
+    {
+      "name": "AMAN KUMAR",
+      "phone": "8409997269",
+      "village": "BANDHWA",
+      "guardianName": "SARVODAYA KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 55
+    },
+    {
+      "name": "NEERAJ KUMAR",
+      "phone": "9229368194",
+      "village": "PIRHOO",
+      "guardianName": "AVDHESH SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 55
+    },
+    {
+      "name": "NITISH YADAV",
+      "phone": "9608839520",
+      "village": "PURHARA",
+      "guardianName": "JITENDRA YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 54
+    },
+    {
+      "name": "KARAN KUMAR",
+      "phone": "9508143710",
+      "village": "PANCHU BIGHA",
+      "guardianName": "NAGENDRA SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 53
+    },
+    {
+      "name": "RAUSHANKUMAR",
+      "phone": "7564964353",
+      "village": "MAHDIPUR",
+      "guardianName": "DEVNATH SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 52
+    },
+    {
+      "name": "PAWAN KUMAR",
+      "phone": "9110107869",
+      "village": "RAGHUNATHPUR",
+      "guardianName": "SUBHASH PANDIT",
+      "className": "",
+      "collageName": "",
+      "marks": 50
+    },
+    {
+      "name": "AMIT KUMAR",
+      "phone": "9508279451",
+      "village": "BUDHAN BIGHA",
+      "guardianName": "ANIL SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 50
+    },
+    {
+      "name": "AMAN KUMAR",
+      "phone": "8092169844",
+      "village": "RAGHUNATHPUR",
+      "guardianName": "SUBHASH PANDIT",
+      "className": "",
+      "collageName": "",
+      "marks": 50
+    },
+    {
+      "name": "SADHNA KUMARI",
+      "phone": "6204844679",
+      "village": "KISHUNPUR",
+      "guardianName": "KAMLESH SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 50
+    },
+    {
+      "name": "ANMOL KUMAR",
+      "phone": "7250384679",
+      "village": "DHARANA",
+      "guardianName": "RAMDYAL CHAUDHRI",
+      "className": "",
+      "collageName": "",
+      "marks": 50
+    },
+    {
+      "name": "AYUSH KUMAR",
+      "phone": "6206562800",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "AMRESH SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 49
+    },
+    {
+      "name": "PRINSH PUSHAP",
+      "phone": "6200878337",
+      "village": "RAGHUNATHPUR",
+      "guardianName": "SAMIR PUSHAP",
+      "className": "",
+      "collageName": "",
+      "marks": 49
+    },
+    {
+      "name": "ANKUSH KUMAR",
+      "phone": "6205133671",
+      "village": "PANCHU BIGHA",
+      "guardianName": "VIJAY PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 48
+    },
+    {
+      "name": "MD. ALIM ANSHARI",
+      "phone": "7562025763",
+      "village": "KANAP",
+      "guardianName": "MD. ATAHAR HUSSSAIN",
+      "className": "",
+      "collageName": "",
+      "marks": 48
+    },
+    {
+      "name": "SILPI KUMARI",
+      "phone": "8002868078",
+      "village": "PURHARA",
+      "guardianName": "BIRENDRA SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 47
+    },
+    {
+      "name": "ASGAR ALI",
+      "phone": "8369484777",
+      "village": "BIRHARA",
+      "guardianName": "RAJU ANSARI",
+      "className": "",
+      "collageName": "",
+      "marks": 47
+    },
+    {
+      "name": "PANKAJ KUMAR",
+      "phone": "7667145414",
+      "village": "PURHARA",
+      "guardianName": "PRABHAT RANJAN",
+      "className": "",
+      "collageName": "",
+      "marks": 47
+    },
+    {
+      "name": "SUMIT KUMAR",
+      "phone": "8084093566",
+      "village": "BIRHARA",
+      "guardianName": "AJIT KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 47
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "phone": "9934023929",
+      "village": "PURHARA",
+      "guardianName": "DHANANAJAY YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 46
+    },
+    {
+      "name": "ISHU KUMARI",
+      "phone": "9546590593",
+      "village": "KISHUNPUR",
+      "guardianName": "ARUN KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 45
+    },
+    {
+      "name": "SAGAR KUMAR",
+      "phone": "9661663872",
+      "village": "PURHARA",
+      "guardianName": "JITENDRA YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 45
+    },
+    {
+      "name": "MANISH KUMAR",
+      "phone": "8227034846",
+      "village": "PANCHU BIGHA",
+      "guardianName": "",
+      "className": "",
+      "collageName": "",
+      "marks": 45
+    },
+    {
+      "name": "SUMAN KUMAR",
+      "phone": "7004729616",
+      "village": "DHARANA",
+      "guardianName": "",
+      "className": "",
+      "collageName": "",
+      "marks": 45
+    },
+    {
+      "name": "VIKASH KUMAR",
+      "phone": "7491046044",
+      "village": "HASPURA",
+      "guardianName": "GIRJA YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 43
+    },
+    {
+      "name": "NITISH KUMAR",
+      "phone": "9725705006",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "ANAND YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 43
+    },
+    {
+      "name": "KUNDAN KUMAR",
+      "phone": "9955544230",
+      "village": "MAHAWAL BIGHA",
+      "guardianName": "RAVINDRA SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 43
+    },
+    {
+      "name": "NANDNI KUMARI",
+      "phone": "8409194480",
+      "village": "PURHARA",
+      "guardianName": "SANJAY SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 42
+    },
+    {
+      "name": "VIVEK KUMAR",
+      "phone": "8579017060",
+      "village": "HAIDARGANJ",
+      "guardianName": "SANJU DEVI",
+      "className": "",
+      "collageName": "",
+      "marks": 42
+    },
+    {
+      "name": "KARAN KUMAR",
+      "phone": "9006239730",
+      "village": "BIRHARA",
+      "guardianName": "VINAY SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 41
+    },
+    {
+      "name": "RAUSHAN KUMAR",
+      "phone": "6287635230",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "ARUN SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 41
+    },
+    {
+      "name": "PRIYANKA KUMARI",
+      "phone": "9973219104",
+      "village": "PURHARA",
+      "guardianName": "BISHUN SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 41
+    },
+    {
+      "name": "SUDHIR KUMAR",
+      "phone": "9263569043",
+      "village": "BIRHARA",
+      "guardianName": "RAJNATH RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 41
+    },
+    {
+      "name": "RANJIT KUMAR",
+      "phone": "9327510529",
+      "village": "DHARANA",
+      "guardianName": "VIJAY CHAUDHRI",
+      "className": "",
+      "collageName": "",
+      "marks": 41
+    },
+    {
+      "name": "SMRITI KUMARI",
+      "phone": "7294854043",
+      "village": "PURHARA",
+      "guardianName": "AKHILESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "KUNDAN KUMAR",
+      "phone": "9835732331",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "SURESH SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "SHIN SHANAKAR KUMAR",
+      "phone": "7898853671",
+      "village": "MOTI BIGHA",
+      "guardianName": "DHANDEV YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "PRINCE KUMAR",
+      "phone": "8226947257",
+      "village": "RAGHUNATHPUR",
+      "guardianName": "MANTU PANDIT",
+      "className": "",
+      "collageName": "",
+      "marks": 39
+    },
+    {
+      "name": "DILJEET KUMAR",
+      "phone": "9060775358",
+      "village": "JHAURI BIGHA",
+      "guardianName": "ANIL KUMAR SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 39
+    },
+    {
+      "name": "ADITYA RAJ",
+      "phone": "8757981909",
+      "village": "CHAURI",
+      "guardianName": "ARVIND SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 39
+    },
+    {
+      "name": "GOPI RAJ",
+      "phone": "8757981909",
+      "village": "HASPURA",
+      "guardianName": "SHANKAR GUPTA",
+      "className": "",
+      "collageName": "",
+      "marks": 39
+    },
+    {
+      "name": "SUGANDHI KUMARI",
+      "phone": "7033296117",
+      "village": "PURHARA",
+      "guardianName": "CHANDRAMA PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 39
+    },
+    {
+      "name": "SAKSHI PRIYA VERMA",
+      "phone": "9801199116",
+      "village": "BIRHARA",
+      "guardianName": "SATAYAJEET KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 39
+    },
+    {
+      "name": "MANISHA KUMARI",
+      "phone": "7739121538",
+      "village": "SATYAJEET KUMAR",
+      "guardianName": "SUDHIR YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 39
+    },
+    {
+      "name": "RANJAN KUMAR",
+      "phone": "7541899607",
+      "village": "BIRHARA",
+      "guardianName": "UMASHANKAR SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 39
+    },
+    {
+      "name": "ARYAN MOHAN SINGH",
+      "phone": "8102456691",
+      "village": "PANCHU BIGHA",
+      "guardianName": "MOHAN KUMAR SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 38
+    },
+    {
+      "name": "GUDDU KUMAR",
+      "phone": "7992395466",
+      "village": "PANCHU BIGHA",
+      "guardianName": "RAMDHYAN CHAUDHRY",
+      "className": "",
+      "collageName": "",
+      "marks": 38
+    },
+    {
+      "name": "SINTU KUMAR",
+      "phone": "7979054505",
+      "village": "MAHAWAL BIGHA",
+      "guardianName": "ANIL RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 38
+    },
+    {
+      "name": "PRINCE KUMAR",
+      "phone": "9939508460",
+      "village": "BIRHARA",
+      "guardianName": "JAY PRAKASH",
+      "className": "",
+      "collageName": "",
+      "marks": 38
+    },
+    {
+      "name": "PRIYA KUMARI",
+      "phone": "8252945397",
+      "village": "PURHARA",
+      "guardianName": "SUMAN SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "USHA RANJAN KUMARI",
+      "phone": "9472615147",
+      "village": "KISHUNPUR",
+      "guardianName": "",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "phone": "7209136021",
+      "village": "PANCHU BIGHA",
+      "guardianName": "RAMUDAY CHAUDHRY",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "NIRMAL KUMAR",
+      "phone": "9942651192",
+      "village": "RAMPURCHAY",
+      "guardianName": "RAVINDRA KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "SANNI KUMAR YADAV",
+      "phone": "9771738309",
+      "village": "HARDEYAL BIGHA",
+      "guardianName": "SATISH KUMAR YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "MONU KUMAR",
+      "phone": "8084072177",
+      "village": "PANCHU BIGHA",
+      "guardianName": "SHIV KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "AMISHA KUMARI",
+      "phone": "8409274450",
+      "village": "PURHARA",
+      "guardianName": "BIPIN KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 36
+    },
+    {
+      "name": "AMARJEET KUMAR",
+      "phone": "9572347122",
+      "village": "HARDEYAL BIGHA",
+      "guardianName": "RAMPRASAD YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 36
+    },
+    {
+      "name": "PRINCE KUMAR",
+      "phone": "7091733921",
+      "village": "PURHARA",
+      "guardianName": "DHARMENDRA SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 36
+    },
+    {
+      "name": "GOLU KUMAR",
+      "phone": "8002380230",
+      "village": "RAMPURCHAY",
+      "guardianName": "AKHILESH SHARMA",
+      "className": "",
+      "collageName": "",
+      "marks": 36
+    },
+    {
+      "name": "ANKUSH PATEL",
+      "phone": "9507080834",
+      "village": "DHARANA",
+      "guardianName": "LALBABU KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 35
+    },
+    {
+      "name": "SHANKAR KUMAR",
+      "phone": "9608668169",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "",
+      "className": "",
+      "collageName": "",
+      "marks": 35
+    },
+    {
+      "name": "AADITYA MAURYA",
+      "phone": "9199405289",
+      "village": "PURHARA",
+      "guardianName": "PAWANJAY KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 35
+    },
+    {
+      "name": "SUMAN KUMAR",
+      "phone": "7250690717",
+      "village": "BIRHARA",
+      "guardianName": "SANJAY RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 35
+    },
+    {
+      "name": "SACHIN KUMAR",
+      "phone": "9934146380",
+      "village": "DHARANA",
+      "guardianName": "JITENDRA KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 34
+    },
+    {
+      "name": "PIYUSH KUMAR",
+      "phone": "9041705278",
+      "village": "RAMPURCHAY",
+      "guardianName": "SATENDRA SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 34
+    },
+    {
+      "name": "VIVEK KUMAR",
+      "phone": "7761024892",
+      "village": "CHETHRAA BIGHA",
+      "guardianName": "VINOD KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 34
+    },
+    {
+      "name": "PREM KUMAR",
+      "phone": "9262369281",
+      "village": "CHAURI",
+      "guardianName": "RAVINDRA MAHTO",
+      "className": "",
+      "collageName": "",
+      "marks": 34
+    },
+    {
+      "name": "AKSHYAY KUMAR",
+      "phone": "7250384679",
+      "village": "DHARANA",
+      "guardianName": "RAJKUMAR CHAUDHRY",
+      "className": "",
+      "collageName": "",
+      "marks": 34
+    },
+    {
+      "name": "DIMPAL KUMAR",
+      "phone": "9955253395",
+      "village": "PURHARA",
+      "guardianName": "SUNIL KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 34
+    },
+    {
+      "name": "KAUSHAL KUMAR",
+      "phone": "9771356560",
+      "village": "BANDHWA",
+      "guardianName": "VIJAY KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "ANAMIKA KUMARI",
+      "phone": "8076677101",
+      "village": "PURHARA",
+      "guardianName": "GAJENDRA KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "phone": "9334430148",
+      "village": "HASPURA",
+      "guardianName": "KAMLESH MEHTA",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "SHEKHAR KUMAR",
+      "phone": "9661453749",
+      "village": "PANCHU BIGHA",
+      "guardianName": "SHIVSHANKAR RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "LUCKY KUMAR",
+      "phone": "7667400376",
+      "village": "PANCHU BIGHA",
+      "guardianName": "UPENDRA YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "PRITHVI RAJ",
+      "phone": "9801199116",
+      "village": "BIRHARA",
+      "guardianName": "SATYAJEET KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "NEHA KUMARI",
+      "phone": "6202869214",
+      "village": "PURHARA",
+      "guardianName": "SAJAN YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 32
+    },
+    {
+      "name": "AMRESH KUMAR",
+      "phone": "8168222011",
+      "village": "MAHAWAL BIGHA",
+      "guardianName": "NARESH RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 32
+    },
+    {
+      "name": "PRAVEEN PRAKASH",
+      "phone": "9279154207",
+      "village": "TERI",
+      "guardianName": "UDAY NARAYAN PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 32
+    },
+    {
+      "name": "UTSAV RAJ",
+      "phone": "9835300353",
+      "village": "PURHARA",
+      "guardianName": "INDRAJEET PRASAD",
+      "className": "",
+      "collageName": "",
+      "marks": 32
+    },
+    {
+      "name": "MUKESH KUMAR",
+      "phone": "7541065822",
+      "village": "RAGHUNATHPUR",
+      "guardianName": "SARJU PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 31
+    },
+    {
+      "name": "JYOTI KUMARI",
+      "phone": "9546672878",
+      "village": "PURHARA",
+      "guardianName": "MAHAVEER PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 31
+    },
+    {
+      "name": "RUBI KUMARI",
+      "phone": "9102219248",
+      "village": "PURHARA",
+      "guardianName": "LET KAPIL SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 31
+    },
+    {
+      "name": "SURAJ KUMAR",
+      "phone": "9128210071",
+      "village": "PURHARA",
+      "guardianName": "HARERAM KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "VICKY KUMAR",
+      "phone": "9798036804",
+      "village": "PURHARA",
+      "guardianName": "RAMBABU YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "SATYAM KUMAR",
+      "phone": "7970606881",
+      "village": "TERI",
+      "guardianName": "BABY KUMARI",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "PALLVI RAJ",
+      "phone": "9162238715",
+      "village": "KISHUNPUR",
+      "guardianName": "YOGENDRA KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "ANIKET KUMAR",
+      "phone": "9128578164",
+      "village": "RAMPURCHAY",
+      "guardianName": "BIRENDRA KUMAR GUPTA",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "PANKAJ KUMAR",
+      "phone": "9608593048",
+      "village": "BIRHARA",
+      "guardianName": "DHRIKSHAN RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 29
+    },
+    {
+      "name": "SUDHANSHU KUMAR",
+      "phone": "9801132897",
+      "village": "PURHARA",
+      "guardianName": "AJESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 29
+    },
+    {
+      "name": "RAKESH KUMAR",
+      "phone": "9234128212",
+      "village": "RAMPURCHAY",
+      "guardianName": "MUKESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "PRIYA KUMARI",
+      "phone": "7635070976",
+      "village": "KISHUNPUR",
+      "guardianName": "SANJAY SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "SUDHIR KUMAR",
+      "phone": "8521371457",
+      "village": "PANCHU BIGHA",
+      "guardianName": "MUKESH CHAUDHARY",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "ABHIRAJ KUMAR",
+      "phone": "9162617094",
+      "village": "PURHARA",
+      "guardianName": "SANTOSH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "AYUSH RAJ",
+      "phone": "8797190565",
+      "village": "BIRHARA",
+      "guardianName": "RANDHIR SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "SAMPAT PASWAN",
+      "phone": "8092797325",
+      "village": "BIRHARA",
+      "guardianName": "LATE UPENDRA PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "MANTISH KUMAR",
+      "phone": "7288548844",
+      "village": "RAMPURCHAY",
+      "guardianName": "RAMESH PRASAD",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "PRITAM KUMAR",
+      "phone": "9128090509",
+      "village": "RAMPURCHAY",
+      "guardianName": "DINESH PRASAD",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "SANTOSH KUMAR",
+      "phone": "6200202122",
+      "village": "PURHARA",
+      "guardianName": "MANOJ PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "PUNAM KUMARI",
+      "phone": "8092474146",
+      "village": "PURHARA",
+      "guardianName": "ASHOK YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "KISHU KUMAR",
+      "phone": "8789816340",
+      "village": "PURHARA",
+      "guardianName": "BRAJESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "RITIK KUMAR",
+      "phone": "8809339509",
+      "village": "PURHARA",
+      "guardianName": "MANOJ KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 26
+    },
+    {
+      "name": "VASHU RAJ",
+      "phone": "9525306398",
+      "village": "RAMPURCHAY",
+      "guardianName": "SAROJ GUPTA",
+      "className": "",
+      "collageName": "",
+      "marks": 26
+    },
+    {
+      "name": "AHISH KUMAR",
+      "phone": "9572074121",
+      "village": "MAHAWAL BIGHA",
+      "guardianName": "NIRAJ YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 26
+    },
+    {
+      "name": "RAJU KUMAR",
+      "phone": "8969966201",
+      "village": "PURHARA",
+      "guardianName": "LALAN SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 25
+    },
+    {
+      "name": "KHUSBOO KUMARI",
+      "phone": "8328592941",
+      "village": "PURHARA",
+      "guardianName": "RANJEET SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 24
+    },
+    {
+      "name": "SURAJ KUMAR",
+      "phone": "7258854884",
+      "village": "RAMPURCHAY",
+      "guardianName": "SANJAN SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 24
+    },
+    {
+      "name": "SINTU KUMAR",
+      "phone": "9973449114",
+      "village": "BIRHARA",
+      "guardianName": "RAMJEET PRASAD",
+      "className": "",
+      "collageName": "",
+      "marks": 24
+    },
+    {
+      "name": "ALOK KUMAR",
+      "phone": "8789097902",
+      "village": "HARDEYAL BIGHA",
+      "guardianName": "SHRIKANT KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 23
+    },
+    {
+      "name": "SNUNNY KUMAR",
+      "phone": "7541066138",
+      "village": "PANCHU BIGHA",
+      "guardianName": "DHARMENDRA DAS",
+      "className": "",
+      "collageName": "",
+      "marks": 22
+    },
+    {
+      "name": "ARITI KUMARI",
+      "phone": "8521541510",
+      "village": "KISHUNPUR",
+      "guardianName": "MUKESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 22
+    },
+    {
+      "name": "KUNDAN KUMAR",
+      "phone": "8541012692",
+      "village": "RASULPUR",
+      "guardianName": "GANGADYAL SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 22
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "phone": "9934868344",
+      "village": "PURHARA",
+      "guardianName": "AMIT KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 22
+    },
+    {
+      "name": "CHIRAG KUMAR",
+      "phone": "9801725085",
+      "village": "PURHARA",
+      "guardianName": "LALAN PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 21
+    },
+    {
+      "name": "KUNDAN KUMAR",
+      "phone": "7033026424",
+      "village": "RAMPURCHAY",
+      "guardianName": "SURENDRA SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 21
+    },
+    {
+      "name": "AMIT KUMAR",
+      "phone": "9060622150",
+      "village": "",
+      "guardianName": "MITHLESH PRAJAPATI",
+      "className": "",
+      "collageName": "",
+      "marks": 21
+    },
+    {
+      "name": "RAHUL KUMAR",
+      "phone": "9262554629",
+      "village": "PURHARA",
+      "guardianName": "JHALAKDEV PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 21
+    },
+    {
+      "name": "CHANCHAL KUMARI",
+      "phone": "",
+      "village": "PURHARA",
+      "guardianName": "AJAY KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 21
+    },
+    {
+      "name": "AKSHYAY KUMAR",
+      "phone": "8292518002",
+      "village": "BIRHARA",
+      "guardianName": "YOGENDRA PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 21
+    },
+    {
+      "name": "GUNJAN KUMAR",
+      "phone": "9122619720",
+      "village": "MAHAVAL BIGHA",
+      "guardianName": "SATENDRA RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 20
+    },
+    {
+      "name": "KHUSI KUMARI",
+      "phone": "7250955712",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "VINOD SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 19
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "phone": "8603690479",
+      "village": "BIRHARA",
+      "guardianName": "KAMLESH PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 19
+    },
+    {
+      "name": "GUDDU KUMAR",
+      "phone": "8581019967",
+      "village": "PURHARA",
+      "guardianName": "BIJENDRA KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 19
+    },
+    {
+      "name": "SHUBHAM KUMAR",
+      "phone": "8002810703",
+      "village": "HASPURA",
+      "guardianName": "LATE DILIP KUMAR SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 19
+    },
+    {
+      "name": "AKASH KUMAR",
+      "phone": "7250870028",
+      "village": "",
+      "guardianName": "RAKESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 19
+    },
+    {
+      "name": "CHITRANJAN KUMAR",
+      "phone": "7260089604",
+      "village": "PANCHU BHIGHA",
+      "guardianName": "",
+      "className": "",
+      "collageName": "",
+      "marks": 18
+    },
+    {
+      "name": "ANISHA KUMARI",
+      "phone": "9771507440",
+      "village": "PURHARA",
+      "guardianName": "SUBALAL YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 17
+    },
+    {
+      "name": "MD. AZAZ AHEMD",
+      "phone": "8779472630",
+      "village": "PURHARA",
+      "guardianName": "SAHJAD ANSARI",
+      "className": "",
+      "collageName": "",
+      "marks": 16
+    },
+    {
+      "name": "PUJA KUMARI",
+      "phone": "7366922136",
+      "village": "BIRHARA",
+      "guardianName": "DINESH PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 14
+    }
+  ],
+  "ninja": [
+    {
+      "name": "AMAN RAJ",
+      "phone": "6377348257",
+      "village": "KISUNPUR",
+      "guardianName": "SHARVAN SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 56
+    },
+    {
+      "name": "PRITAM KUMAR VERMA",
+      "phone": "8252321692",
+      "village": "PURHARA",
+      "guardianName": "BALWANT KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 54
+    },
+    {
+      "name": "CHANDANI KUMARI",
+      "phone": "7970606881",
+      "village": "SHIVBALAK BIGHA",
+      "guardianName": "RAMKANT KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 53
+    },
+    {
+      "name": "ALOK KUMAR",
+      "phone": "9708300450",
+      "village": "BIRHARA",
+      "guardianName": "AJIT KUMAR VERMA",
+      "className": "",
+      "collageName": "",
+      "marks": 52
+    },
+    {
+      "name": "KRISH KUMAR",
+      "phone": "7739540208",
+      "village": "KISUNPUR",
+      "guardianName": "MUKESH RAJAK",
+      "className": "",
+      "collageName": "",
+      "marks": 52
+    },
+    {
+      "name": "MANISH KUMAR",
+      "phone": "8226947257",
+      "village": "RAGUNATHPUR",
+      "guardianName": "MANISH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 51
+    },
+    {
+      "name": "RAUSHAN KUMAR",
+      "phone": "9137948006",
+      "village": "GANGA PUR",
+      "guardianName": "RAUSHAN KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 50
+    },
+    {
+      "name": "RABINS RAJ",
+      "phone": "9304725074",
+      "village": "BIRHARA",
+      "guardianName": "MUKESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 49
+    },
+    {
+      "name": "PUNAM KUMARI",
+      "phone": "9546239426",
+      "village": "RASLPUR",
+      "guardianName": "VIRAY YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 48
+    },
+    {
+      "name": "BINU KUMAR",
+      "phone": "9693272729",
+      "village": "MAHWAL BIGHA",
+      "guardianName": "HIRLAL YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 48
+    },
+    {
+      "name": "DHRVU KUMAR",
+      "phone": "9316587842",
+      "village": "PURHARA",
+      "guardianName": "AKHILESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 46
+    },
+    {
+      "name": "BAIJU KUMAR",
+      "phone": "9771339657",
+      "village": "HAIDERGANJ",
+      "guardianName": "BIRENDRA KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 46
+    },
+    {
+      "name": "PUSHPANJALI KUMARI",
+      "phone": "7352766409",
+      "village": "BIRHARA",
+      "guardianName": "SUDHIR KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 46
+    },
+    {
+      "name": "ANKUSH VISWAKARMA",
+      "phone": "9341587553",
+      "village": "BIRBANA",
+      "guardianName": "DHANAJAY VISWAKARMA",
+      "className": "",
+      "collageName": "",
+      "marks": 45
+    },
+    {
+      "name": "RANJEET KUMAR",
+      "phone": "9065165497",
+      "village": "RAGUNATHPUR",
+      "guardianName": "BHIM YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 47
+    },
+    {
+      "name": "SUSHMITA KUMARI",
+      "phone": "9955634726",
+      "village": "PURHARA",
+      "guardianName": "NISHANT KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 45
+    },
+    {
+      "name": "SAURABH KUMAR",
+      "phone": "7827450044",
+      "village": "PACHUBIGHA",
+      "guardianName": "CHANDRAKANT KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 44
+    },
+    {
+      "name": "BRAJESH KUMAR",
+      "phone": "7858986282",
+      "village": "HAIDERGANJ",
+      "guardianName": "CHANDRAMA SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 44
+    },
+    {
+      "name": "AMAN KUMAR",
+      "phone": "7632847327",
+      "village": "BAIRBAN",
+      "guardianName": "ANGESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 44
+    },
+    {
+      "name": "RAUSHAN KUMAR",
+      "phone": "7350228085",
+      "village": "PIRHO",
+      "guardianName": "RANVIJAY KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 43
+    },
+    {
+      "name": "RAUSHNI KUMARI",
+      "phone": "8409194480",
+      "village": "PURHARA",
+      "guardianName": "SANJAY SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 42
+    },
+    {
+      "name": "SACHIN KUMAR",
+      "phone": "9065005968",
+      "village": "MAHDIPUR",
+      "guardianName": "BABULAL YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 42
+    },
+    {
+      "name": "PRINCE KUMAR",
+      "phone": "8530497051",
+      "village": "KISHNPUR",
+      "guardianName": "AMIT KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 42
+    },
+    {
+      "name": "KHUSHI KUMARI",
+      "phone": "9973754848",
+      "village": "KISHNPUR",
+      "guardianName": "AMIT KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 42
+    },
+    {
+      "name": "AASHISH RAJ",
+      "phone": "8002832537",
+      "village": "PURHARA",
+      "guardianName": "SANTOSH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 41
+    },
+    {
+      "name": "LAKUSH KUMAR",
+      "phone": "6299755373",
+      "village": "PURHARA",
+      "guardianName": "SHYAM NARAYAN PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 41
+    },
+    {
+      "name": "KHUSHI KUMARI",
+      "phone": "8368275762",
+      "village": "PIRHO",
+      "guardianName": "RAJKUMAR SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 41
+    },
+    {
+      "name": "RAJVEER PARKASH",
+      "phone": "7079883995",
+      "village": "PURHARA",
+      "guardianName": "LATE NAVLESH VERMA",
+      "className": "",
+      "collageName": "",
+      "marks": 41
+    },
+    {
+      "name": "LAV KUMAR",
+      "phone": "7781053072",
+      "village": "PACHUBIGHA",
+      "guardianName": "LALAN KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "PRIYA KUMARI",
+      "phone": "9905604307",
+      "village": "PARAYAG BIGHA",
+      "guardianName": "PARMOD KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 41
+    },
+    {
+      "name": "PRIYA KUMARI",
+      "phone": "9955495799",
+      "village": "PARAYAG BIGHA",
+      "guardianName": "DOMAN YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "DEEPAK KUMAR",
+      "phone": "7061340292",
+      "village": "KISHNPUR",
+      "guardianName": "SUBHOOD KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "SURAJ KUMAR",
+      "phone": "8002736024",
+      "village": "BANDHU BIGHA",
+      "guardianName": "SURAJ KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "KHUSHI KUMARI",
+      "phone": "9162313133",
+      "village": "PURHARA",
+      "guardianName": "BIGAN YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "AKASH KUMAR",
+      "phone": "7782818980",
+      "village": "HAIDERGANJ",
+      "guardianName": "PARMOD PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "PRITAM KUMAR",
+      "phone": "9934444199",
+      "village": "PURHARA",
+      "guardianName": "SANJAY SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "HIMNCHAL KUMAR",
+      "phone": "9229104022",
+      "village": "PURHARA",
+      "guardianName": "PARBHAT RANJAN",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "AAYUSH KUMAR",
+      "phone": "9153748625",
+      "village": "BAIRBNA",
+      "guardianName": "ARVIND VISWAKARMA",
+      "className": "",
+      "collageName": "",
+      "marks": 40
+    },
+    {
+      "name": "SMEER KUMAR",
+      "phone": "8292818132",
+      "village": "PURHARA",
+      "guardianName": "HARINANDAN KUMAR PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 39
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "phone": "9162619720",
+      "village": "MAHWAL BIGHA",
+      "guardianName": "SATENDRA RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 39
+    },
+    {
+      "name": "PRITAM KUMAR",
+      "phone": "8789823657",
+      "village": "RASLPUR",
+      "guardianName": "SUNIL YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 39
+    },
+    {
+      "name": "JYOTI KUMARI",
+      "phone": "9771356560",
+      "village": "PARAYAG BIGHA",
+      "guardianName": "VIJAY YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 38
+    },
+    {
+      "name": "ARNAV KUMAR",
+      "phone": "9135455112",
+      "village": "PURHARA",
+      "guardianName": "SUMAN KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 38
+    },
+    {
+      "name": "SINTU KUMAR",
+      "phone": "8651799385",
+      "village": "PIRHO",
+      "guardianName": "NAYAN KUMAR PRASAD",
+      "className": "",
+      "collageName": "",
+      "marks": 38
+    },
+    {
+      "name": "PALVI KUMARI",
+      "phone": "6206562800",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "AMARESH SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 38
+    },
+    {
+      "name": "KHUSI KUMARI",
+      "phone": "8292818132",
+      "village": "PURHARA",
+      "guardianName": "HARINANDAN KUMAR PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "SIKANDAR KUMAR",
+      "phone": "8294029248",
+      "village": "PURHARA",
+      "guardianName": "SIYARAM PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "SHUBHAM KUMAR",
+      "phone": "8092591012",
+      "village": "RASULPUR",
+      "guardianName": "RAMASHISH SAO",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "NISHA KUMARI",
+      "phone": "8294723610",
+      "village": "PURHARA",
+      "guardianName": "SINOD MISTRI",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "phone": "9341813379",
+      "village": "KISHUNPUR",
+      "guardianName": "RAKESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "NIRAJ KUMAR",
+      "phone": "6201325365",
+      "village": "PURHARA",
+      "guardianName": "",
+      "className": "",
+      "collageName": "",
+      "marks": 37
+    },
+    {
+      "name": "BITTU KUMAR",
+      "phone": "9065039587",
+      "village": "KISUNPUR",
+      "guardianName": "RAMESHWAR PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 36
+    },
+    {
+      "name": "ANUJ KUMAR",
+      "phone": "9546379360",
+      "village": "KISHUNPUR",
+      "guardianName": "BINDESHWARI PRASAD",
+      "className": "",
+      "collageName": "",
+      "marks": 36
+    },
+    {
+      "name": "OMPARKASH KUMAR",
+      "phone": "6201218123",
+      "village": "MAHADIPUR",
+      "guardianName": "SURENDRA SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 36
+    },
+    {
+      "name": "PUNIT KUMAR",
+      "phone": "6205075156",
+      "village": "PURHARA",
+      "guardianName": "DHANANJAY KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 36
+    },
+    {
+      "name": "RITESH KUMAR",
+      "phone": "9102403274",
+      "village": "PIRHO",
+      "guardianName": "VISWANATH YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 36
+    },
+    {
+      "name": "CHITRANJAN KUMAR",
+      "phone": "7766024717",
+      "village": "RAMPUR",
+      "guardianName": "RAM JANAN SHARMA",
+      "className": "",
+      "collageName": "",
+      "marks": 35
+    },
+    {
+      "name": "RIYA KUMARI",
+      "phone": "9905604307",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "PRAMOD KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 35
+    },
+    {
+      "name": "AMAN KUMAR",
+      "phone": "9341493069",
+      "village": "PANCHU BIGHA",
+      "guardianName": "DHANNANJAY",
+      "className": "",
+      "collageName": "",
+      "marks": 35
+    },
+    {
+      "name": "DINDYAL KUMAR",
+      "phone": "9162424716",
+      "village": "RAMPUR",
+      "guardianName": "DINANATH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 35
+    },
+    {
+      "name": "NANDANI KUMARI",
+      "phone": "7292981670",
+      "village": "PURHARA",
+      "guardianName": "DINANATH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 35
+    },
+    {
+      "name": "UDAL KUMAR",
+      "phone": "7762824962",
+      "village": "RASULPUR",
+      "guardianName": "RAMDHAR YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 35
+    },
+    {
+      "name": "NASIMA KHATUN",
+      "phone": "9631318207",
+      "village": "PURHARA",
+      "guardianName": "GHULAM RASUL",
+      "className": "",
+      "collageName": "",
+      "marks": 34
+    },
+    {
+      "name": "ANKIT KUMAR",
+      "phone": "6202183882",
+      "village": "MAHADIPUR",
+      "guardianName": "JIMDAR SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 34
+    },
+    {
+      "name": "SUJEET KUMAR",
+      "phone": "9501924871",
+      "village": "BIRHARA",
+      "guardianName": "MAHENDRA RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 34
+    },
+    {
+      "name": "NIRAJ KUMAR",
+      "phone": "9771339657",
+      "village": "HAIDERGANJ",
+      "guardianName": "BIRENDRA SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 34
+    },
+    {
+      "name": "JYOTI KUMARI",
+      "phone": "",
+      "village": "",
+      "guardianName": "GAJENDRA SHARMA",
+      "className": "",
+      "collageName": "",
+      "marks": 34
+    },
+    {
+      "name": "CHANDANI KUMARI",
+      "phone": "7870118509",
+      "village": "DHARANA",
+      "guardianName": "MUKESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "KHUSHBOO KUMARI",
+      "phone": "7091763045",
+      "village": "PURHARA",
+      "guardianName": "RANJAN KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "SHANTI KUMARI",
+      "phone": "9344402081",
+      "village": "PURHARA",
+      "guardianName": "SRIKANT KUMARI",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "RAGNI KUMARI",
+      "phone": "8292460073",
+      "village": "PURHARA",
+      "guardianName": "SANJAY PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "KHUSHI KUMARI",
+      "phone": "8540817218",
+      "village": "BIRHARA",
+      "guardianName": "ASHOK RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "ROHIT KUMAR",
+      "phone": "9955634726",
+      "village": "PURHARA",
+      "guardianName": "NISHANT KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "RAUSHAN KUMAR",
+      "phone": "8292811245",
+      "village": "PIRHO",
+      "guardianName": "RANJAN RAJVANSHI",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "NIBHA KUMARI",
+      "phone": "9304396560",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "RAMESH YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "RAUSHAN KUMAR",
+      "phone": "7633945988",
+      "village": "MAHAVAL BIGHA",
+      "guardianName": "SHABDYAL",
+      "className": "",
+      "collageName": "",
+      "marks": 33
+    },
+    {
+      "name": "KARAN RAJ",
+      "phone": "9199925054",
+      "village": "PURHARA",
+      "guardianName": "RAVIKANT VERMA",
+      "className": "",
+      "collageName": "",
+      "marks": 32
+    },
+    {
+      "name": "SACHIN KUMAR",
+      "phone": "8092473997",
+      "village": "PURHARA",
+      "guardianName": "JITENDRA PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 32
+    },
+    {
+      "name": "AASHIK RAJ",
+      "phone": "9661938265",
+      "village": "PURHARA",
+      "guardianName": "DHARMENDRA SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 32
+    },
+    {
+      "name": "KIRAN KUMARI",
+      "phone": "8002736024",
+      "village": "BANDHU BIGHA",
+      "guardianName": "INDAL SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 32
+    },
+    {
+      "name": "GUDDYA KUMARI",
+      "phone": "7739121538",
+      "village": "PURHARA",
+      "guardianName": "SUDHIR KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 32
+    },
+    {
+      "name": "KAUSHAL KUMAR",
+      "phone": "8936024846",
+      "village": "RAMPUR",
+      "guardianName": "DILIP DAS",
+      "className": "",
+      "collageName": "",
+      "marks": 32
+    },
+    {
+      "name": "UTKARSH KUMAR",
+      "phone": "9973910232",
+      "village": "KISHUNPUR",
+      "guardianName": "NANDU KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 31
+    },
+    {
+      "name": "SUJIT KUMAR",
+      "phone": "9546672878",
+      "village": "PURHARA",
+      "guardianName": "MAHABIR PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 31
+    },
+    {
+      "name": "SABRIN KHATUN",
+      "phone": "9771544649",
+      "village": "PURHARA",
+      "guardianName": "MOSTAK ANSARI",
+      "className": "",
+      "collageName": "",
+      "marks": 31
+    },
+    {
+      "name": "RITIKA KUMARI",
+      "phone": "6301090515",
+      "village": "PURHARA",
+      "guardianName": "RANJAY PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 31
+    },
+    {
+      "name": "ANJALI KUMARI",
+      "phone": "8084270435",
+      "village": "PURHARA",
+      "guardianName": "PRABHAT KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 31
+    },
+    {
+      "name": "VISHAL KUMAR",
+      "phone": "8252354821",
+      "village": "RAMPUR",
+      "guardianName": "BIRBAL SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 31
+    },
+    {
+      "name": "ABHISEK KUMAR",
+      "phone": "8538929138",
+      "village": "RASULPUR",
+      "guardianName": "MAHENDRA RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "PRIYANSHU KUMAR",
+      "phone": "9031777904",
+      "village": "KISHUNPUR",
+      "guardianName": "SUJEET KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "ANKUSH KUMAR",
+      "phone": "8541012692",
+      "village": "RASULPUR",
+      "guardianName": "GANGADYAL SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "ASHOK KUMAR",
+      "phone": "6299302625",
+      "village": "PURHARA",
+      "guardianName": "SHELISH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "SUNNY KUMAR",
+      "phone": "",
+      "village": "PIRHO",
+      "guardianName": "GAJENDRA SHARMA",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "BABI KUMAR",
+      "phone": "7814423602",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "LATE ARVIND SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "SAIF RAZA",
+      "phone": "9006239203",
+      "village": "PURHARA",
+      "guardianName": "REYAZ ANSARI",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "ADITYA KUMAR",
+      "phone": "6205333601",
+      "village": "",
+      "guardianName": "",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "SHANTI KUMARI",
+      "phone": "8084926402",
+      "village": "MAHABAL BIGHA",
+      "guardianName": "NANDLAL RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "MANI KUMAR",
+      "phone": "8651517162",
+      "village": "PURHARA",
+      "guardianName": "PINTU YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "RISHI KUMAR",
+      "phone": "7250228085",
+      "village": "PIRHO",
+      "guardianName": "RANVIJAY SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 30
+    },
+    {
+      "name": "GAUTAM VERMA",
+      "phone": "7091763045",
+      "village": "PURHARA",
+      "guardianName": "RANJAN KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 29
+    },
+    {
+      "name": "PRIYANSHU KUMARI",
+      "phone": "9162196465",
+      "village": "BIRHARA",
+      "guardianName": "UMESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 29
+    },
+    {
+      "name": "UTTAM PATEL",
+      "phone": "8226945647",
+      "village": "MAHADIPUR",
+      "guardianName": "AJESH PATEL",
+      "className": "",
+      "collageName": "",
+      "marks": 29
+    },
+    {
+      "name": "SUNNY SAGAR",
+      "phone": "9117399597",
+      "village": "BIRHARA",
+      "guardianName": "SOBHA DEVI",
+      "className": "",
+      "collageName": "",
+      "marks": 29
+    },
+    {
+      "name": "JAGRITI KUMARI",
+      "phone": "8084016960",
+      "village": "PURHARA",
+      "guardianName": "MOTI LAL SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 29
+    },
+    {
+      "name": "MD. IRSHAD ANSARI",
+      "phone": "9955803524",
+      "village": "PURHARA",
+      "guardianName": "MD. KHURSHID ANSARI",
+      "className": "",
+      "collageName": "",
+      "marks": 29
+    },
+    {
+      "name": "RUPANJALI KUMARI",
+      "phone": "8809645814",
+      "village": "PIRHO",
+      "guardianName": "YOGENDRA RAJBANSHI",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "CHINTU KUMAR",
+      "phone": "8340351186",
+      "village": "RAMPUR",
+      "guardianName": "BIND MISTRI",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "AMARNATH KUMAR",
+      "phone": "7091591047",
+      "village": "BIRHARA",
+      "guardianName": "RAJENDRA RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "ARADHNA KUMARI",
+      "phone": "6204844679",
+      "village": "KISHUNPUR",
+      "guardianName": "LATE KAMLESH SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "PRIYANSHU KUMARI",
+      "phone": "7250780722",
+      "village": "RASULPUR",
+      "guardianName": "RAJESHWAR SHARMA",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "RIMA KUMARI",
+      "phone": "9334233013",
+      "village": "PIRHO",
+      "guardianName": "BABLU SHARMA",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "PIYUSH SHARMA",
+      "phone": "8160321220",
+      "village": "MAHADIPUR",
+      "guardianName": "KAMENDRA SHARMA",
+      "className": "",
+      "collageName": "",
+      "marks": 28
+    },
+    {
+      "name": "AMIT KUMAR",
+      "phone": "9546511741",
+      "village": "RAMPUR",
+      "guardianName": "SANJAY SAW",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "SUSHMA KUMARI",
+      "phone": "9934486431",
+      "village": "PURHARA",
+      "guardianName": "INDRAJEET KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "SHARWAN KUMAR",
+      "phone": "8294164129",
+      "village": "PURHARA",
+      "guardianName": "SANTOSH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "RANJEET KUMAR",
+      "phone": "9065005968",
+      "village": "MAHDIPUR",
+      "guardianName": "BABULAL YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "VANDNA KUMARI",
+      "phone": "",
+      "village": "BIRHARA",
+      "guardianName": "MUNNA YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "NITISH KUMAR",
+      "phone": "9608691086",
+      "village": "BANDHWA",
+      "guardianName": "OM PRAKASH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "SHANI KUMAR",
+      "phone": "9304874420",
+      "village": "",
+      "guardianName": "",
+      "className": "",
+      "collageName": "",
+      "marks": 27
+    },
+    {
+      "name": "MOHIT KUMAR",
+      "phone": "8252945397",
+      "village": "PURHARA",
+      "guardianName": "SUMAN SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 26
+    },
+    {
+      "name": "AFSANA PARVEEN",
+      "phone": "8252208039",
+      "village": "PURHARA",
+      "guardianName": "AKHTAR ANSARI",
+      "className": "",
+      "collageName": "",
+      "marks": 26
+    },
+    {
+      "name": "RAUSHNI KUMARI",
+      "phone": "8809339509",
+      "village": "PURHARA",
+      "guardianName": "MANOJ KUMARI",
+      "className": "",
+      "collageName": "",
+      "marks": 26
+    },
+    {
+      "name": "MONU KUMAR",
+      "phone": "9098100682",
+      "village": "RASULPUR",
+      "guardianName": "MUNNA SHARMA",
+      "className": "",
+      "collageName": "",
+      "marks": 26
+    },
+    {
+      "name": "SHINKU KUMARI",
+      "phone": "7091901628",
+      "village": "KISHUNPUR",
+      "guardianName": "RAKESH SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 26
+    },
+    {
+      "name": "SHATRUDHAN KUMAR",
+      "phone": "7366893560",
+      "village": "PIRHO",
+      "guardianName": "ASHOK THAKUR",
+      "className": "",
+      "collageName": "",
+      "marks": 25
+    },
+    {
+      "name": "JULI KUMARI",
+      "phone": "7250955712",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "BINOD SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 25
+    },
+    {
+      "name": "AMAN KUMAR",
+      "phone": "8409622714",
+      "village": "PURHARA",
+      "guardianName": "ARUN PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 25
+    },
+    {
+      "name": "JYOTI KUMARI",
+      "phone": "9903302582",
+      "village": "PURHARA",
+      "guardianName": "SANTOSH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 25
+    },
+    {
+      "name": "JUHI KUMARI",
+      "phone": "7250955712",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "VINOD SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 24
+    },
+    {
+      "name": "RAGNI KUMARI",
+      "phone": "8809339509",
+      "village": "PURHARA",
+      "guardianName": "MANO KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 24
+    },
+    {
+      "name": "ABINASH KUMAR",
+      "phone": "7321053411",
+      "village": "PURHARA",
+      "guardianName": "ARBIND KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 24
+    },
+    {
+      "name": "ANKESH KUMAR",
+      "phone": "8002811252",
+      "village": "",
+      "guardianName": "",
+      "className": "",
+      "collageName": "",
+      "marks": 24
+    },
+    {
+      "name": "KHUSHI KUMARI",
+      "phone": "9903302582",
+      "village": "PURHARA",
+      "guardianName": "PANKAJ PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 24
+    },
+    {
+      "name": "PRATIK RAJ",
+      "phone": "7079883595",
+      "village": "PURHARA",
+      "guardianName": "LATE NAVLESH KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 23
+    },
+    {
+      "name": "ARUSH KUMAR",
+      "phone": "7260014875",
+      "village": "KISHUNPUR",
+      "guardianName": "AJAY KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 23
+    },
+    {
+      "name": "RINKI KUMARI",
+      "phone": "9102219248",
+      "village": "PURHARA",
+      "guardianName": "LATE KAPIL SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 23
+    },
+    {
+      "name": "RAVI KUMAR",
+      "phone": "7209731094",
+      "village": "RASHULPUR",
+      "guardianName": "RAJEET RAJVANSHI",
+      "className": "",
+      "collageName": "",
+      "marks": 23
+    },
+    {
+      "name": "SUNNY KUMAR",
+      "phone": "9955253395",
+      "village": "PURHARA",
+      "guardianName": "DR. JITENDRA KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 22
+    },
+    {
+      "name": "PINKI KUMARI",
+      "phone": "9572132694",
+      "village": "BIRHARA",
+      "guardianName": "RAMJI RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 22
+    },
+    {
+      "name": "SHIVANI KUMARI",
+      "phone": "7739738507",
+      "village": "KISHUNPUR",
+      "guardianName": "PHULENDRA PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 22
+    },
+    {
+      "name": "MERAJ ANSARI",
+      "phone": "",
+      "village": "PURHARA",
+      "guardianName": "SAHAJAD ANSARI",
+      "className": "",
+      "collageName": "",
+      "marks": 21
+    },
+    {
+      "name": "ABHINANDAN KUMAR",
+      "phone": "8252648492",
+      "village": "MAHAVAL BIGHA",
+      "guardianName": "RAMAKANT SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 21
+    },
+    {
+      "name": "PRINCE KUMAR",
+      "phone": "7782026953",
+      "village": "PURHARA",
+      "guardianName": "SANTOSH RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 21
+    },
+    {
+      "name": "ANJU KUMARI",
+      "phone": "7294978544",
+      "village": "PIRHO",
+      "guardianName": "SURESH RAJVANSHI",
+      "className": "",
+      "collageName": "",
+      "marks": 20
+    },
+    {
+      "name": "NISHA KUMARI",
+      "phone": "9102325085",
+      "village": "PURHARA",
+      "guardianName": "BABAN PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 19
+    },
+    {
+      "name": "PUJA KUMARI",
+      "phone": "9162046193",
+      "village": "BIRHARA",
+      "guardianName": "UPENDRA KUMAR",
+      "className": "",
+      "collageName": "",
+      "marks": 19
+    },
+    {
+      "name": "VAISHNAVI KUMARI",
+      "phone": "7739385863",
+      "village": "PURHARA",
+      "guardianName": "MUKESH MEHTA",
+      "className": "",
+      "collageName": "",
+      "marks": 19
+    },
+    {
+      "name": "RISHU KUMAR",
+      "phone": "9471008636",
+      "village": "PURHARA",
+      "guardianName": "SANTOSH PASWAN",
+      "className": "",
+      "collageName": "",
+      "marks": 18
+    },
+    {
+      "name": "ANITA KUMARI",
+      "phone": "9060622150",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "MITHLESH SINGH",
+      "className": "",
+      "collageName": "",
+      "marks": 18
+    },
+    {
+      "name": "KHUSBOO KUMARI",
+      "phone": "",
+      "village": "MAHAVAL BIGHA",
+      "guardianName": "DASRATH RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 18
+    },
+    {
+      "name": "BICKY KUMAR",
+      "phone": "9508066361",
+      "village": "RASHULPUR",
+      "guardianName": "RAMSHIR SHARAMA",
+      "className": "",
+      "collageName": "",
+      "marks": 17
+    },
+    {
+      "name": "NIBHA KUMARI",
+      "phone": "9771356560",
+      "village": "PRAYAG BIGHA",
+      "guardianName": "AJAY YADAV",
+      "className": "",
+      "collageName": "",
+      "marks": 17
+    },
+    {
+      "name": "CHANDANI KUMARI",
+      "phone": "9717361577",
+      "village": "MAHAVAL BIGHA",
+      "guardianName": "LATE FAGUN RAM",
+      "className": "",
+      "collageName": "",
+      "marks": 10
+    }
+  ]
+}

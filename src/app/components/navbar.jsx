@@ -18,18 +18,18 @@ const Navbar = () => {
   }, []);
 
   const navLinks = [
-    { title: "Home", href: "#home" },
-    { title: "About Us", href: "#aboutUs" },
-    { title: "Initiatives", href: "#initiatives" },
-    {
-      title: "Get Involved",
-      href: "#getInvolved",
-      children: [
-        { title: "Volunteer", href: "#" },
-        { title: "Donate", href: "#" },
-        { title: "Partner With Us", href: "#" },
-      ],
-    },
+    { title: "Home", href: "/DashBoard" },
+    { title: "About Us", href: "/aboutUs" },
+    { title: "Initiatives", href: "/initiatives" },
+    // {
+    //   title: "Get Involved",
+    //   href: "/getInvolved",
+    //   children: [
+    //     { title: "Volunteer", href: "#" },
+    //     { title: "Donate", href: "#" },
+    //     { title: "Partner With Us", href: "#" },
+    //   ],
+    // },
     // { title: "Impact", href: "#impact" },
     // { title: "Contact", href: "#contactUs" },
   ];

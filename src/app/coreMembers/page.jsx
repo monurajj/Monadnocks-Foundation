@@ -73,6 +73,16 @@ const content = {
         InstaLink: "https://www.instagram.com/ranbeer8661/",
       },
       {
+        name: "Mr. Suman Kumar",
+        title: "Core Member of Monadnocks Foundation",
+        email: "suman808393@gmail.com",
+        phone: "+91 8083938043",
+        image: "sumansir.jpeg",
+        bio: "No bio available",
+        passion: "No bio available",
+        InstaLink: "https://www.instagram.com/sumendrasuman/",
+      },
+      {
         name: "Karan Kumar",
         title: "Core Member of Monadnocks Foundation",
         email: "karankumar36985241@gmail.com",
