@@ -151,6 +151,15 @@ const content = {
         bio: "No bio available",
         passion: "No bio available",
         InstaLink: "https://www.instagram.com/mantoshkumar5600/",
+      },{
+        name: "Sameer Kumar Verma",
+        title: "Core Member of Monadnocks Foundation",
+        email: "sameerkumarverma8210@gmail.com",
+        phone: "+91 9576660998",
+        image: "WhatsApp Image 2025-03-18 at 06.45.05.jpeg",
+        bio: "No bio available",
+        passion: "No bio available",
+        InstaLink: "not available",
       },
       {
         name: "Archana Kumari",
@@ -310,6 +319,16 @@ const content = {
         bio: "कोई विवरण उपलब्ध नहीं",
         passion: "कोई विवरण उपलब्ध नहीं",
         InstaLink: "https://www.instagram.com/mantoshkumar5600/",
+      },
+      {
+        name: "समीर कुमार वर्मा",
+        title: "मोनाडनॉक्स फाउंडेशन के कोर सदस्य",
+        email: "sameerkumarverma8210@gmail.com",
+        phone: "+91 9576660998",
+        image: "WhatsApp Image 2025-03-18 at 06.45.05.jpeg",
+        bio: "कोई विवरण उपलब्ध नहीं",
+        passion: "कोई विवरण उपलब्ध नहीं",
+        InstaLink: "उपलब्ध नहीं",
       },
       {
         name: "अर्चना कुमारी",
